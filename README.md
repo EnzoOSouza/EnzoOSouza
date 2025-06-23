@@ -15,7 +15,7 @@ _(Estou começando a usar meu GitHub agora 👨‍💻, por isso tem poucos proj
  - Sistemas de gestão
 
    
-=========================================================================================
+========================================================================================
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EnzoOSouza&show_icons=true&theme=radical" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoOSouza&layout=compact&theme=radical" height="150"/>
