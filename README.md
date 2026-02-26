@@ -1,6 +1,6 @@
 👋 Hello World :)
 
-Me chamo Enzo Souza e atualmente estudo Análise e Desenvolvimento de Sistemas (3º semestre) e trabalho como Analista de Suporte de TI.
+Me chamo Enzo Souza e atualmente estudo Análise e Desenvolvimento de Sistemas (2º semestre) e trabalho como Analista de Suporte de TI.
 
 _(Estou começando a usar meu GitHub agora 👨‍💻, por isso tem poucos projetos)_
 
